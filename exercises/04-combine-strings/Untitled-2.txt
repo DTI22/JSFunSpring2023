@@ -1,0 +1,3 @@
+const str = "bananas";
+const strLength = str 
+console.log(str.length)

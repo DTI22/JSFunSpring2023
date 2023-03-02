@@ -13,3 +13,8 @@ let total;
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+if (total) {
+     console.log('your total is ...');
+} else if (isError){
+    console.log("Your new total is");
+}

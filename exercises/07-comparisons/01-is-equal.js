@@ -12,3 +12,6 @@ let userInput2 = "39"; // e,g,
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+if (isEqual===39);{
+    console.log
+}
