@@ -16,4 +16,8 @@ let author = "J. K. Rowling";
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+<<<<<<< HEAD
 let bookInfo= (`${booktitle} by ${author}`);
+=======
+console.log(`${bookTitle} ${author}`);
+>>>>>>> f9ef846643cb3063bc4897c0a5a2782ee965a795

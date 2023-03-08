@@ -9,4 +9,8 @@ let str = "Wes Craven"; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+<<<<<<< HEAD
 const lastCharacter = str.lastIndexOf('n');
+=======
+const lastCharacter = n;
+>>>>>>> f9ef846643cb3063bc4897c0a5a2782ee965a795

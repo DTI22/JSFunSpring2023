@@ -7,4 +7,8 @@ let b = 5; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+<<<<<<< HEAD
 let difference = b-a;
+=======
+let difference = (b-a); 
+>>>>>>> f9ef846643cb3063bc4897c0a5a2782ee965a795

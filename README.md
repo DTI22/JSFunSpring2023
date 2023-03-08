@@ -6,7 +6,7 @@
 
 This is the git repository for the class. It will be updated on a class by class basis.
 
-You will submit your assignments by doing pull requests. You will need to create a Github account if you do not have one already. Fork this repository by clicking on the _Fork_ button. Then clone your forked repository with this command, replacing YOUR-USERNAME with your Github username:
+You will submit your assignments by doing pull requests. You will need to create a Github account if you do not have one already. Fork this repository by clicking on the _Fork_ button. Then clone your forked repository with this command, replacing YOUR-USERNAME with your Github username:git clone
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/JSFunSpring2023.git

@@ -7,4 +7,9 @@ let age = 90; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+<<<<<<< HEAD
 age= age +1;
+=======
+
+age ++;
+>>>>>>> f9ef846643cb3063bc4897c0a5a2782ee965a795
