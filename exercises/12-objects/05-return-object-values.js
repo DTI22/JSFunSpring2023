@@ -16,5 +16,4 @@ const blogPost = {
  *
  * Your answer should still work when "blogPost" has different keys and values.
  */
-
 // WRITE YOUR ANSWER BELOW THIS LINE
